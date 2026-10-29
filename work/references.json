@@ -1,0 +1,47 @@
+[
+  {
+    "id": "candylee63-2024", "author": "candylee63", "date": "2024, November 17",
+    "title": "深圳｜曼谷街角東南亞風味小館 (紅山6979店)",
+    "translation": "Shenzhen | Bangkok Street Corner Southeast Asian restaurant (Hongshan 6979 branch)",
+    "site": "Trip.com Moments", "kind": "post", "language": "zh-Hant",
+    "url": "https://my.trip.com/moments/detail/shenzhen-26-126353201?locale=zh-MY",
+    "verification": "Author, title and displayed date confirmed. Original script retained under APA's permitted exception; English translation is editorial, not an official title."
+  },
+  {
+    "id": "jircas-nd", "author": "Japan International Research Center for Agricultural Sciences", "date": "n.d.",
+    "title": "Ocimum tenuiflorum L. (Lamiaceae)", "translation": "", "site": "", "kind": "database", "language": "en",
+    "url": "https://www.jircas.go.jp/en/database/thaivege/079",
+    "verification": "Institution and title confirmed. No publication date verified; copyright year is not a publication date."
+  },
+  {
+    "id": "luealamai-2024", "author": "Luealamai, K.", "nativeAuthor": "กฤช เหลือลมัย", "date": "2024, August 17",
+    "title": "กุสุมรสจากดงกะเพรา", "translation": "Floral flavours from a basil grove",
+    "site": "Thai PBS De/Code", "kind": "article", "language": "th",
+    "url": "https://www.thaipbs.or.th/decode/20240718-sweet-basil",
+    "verification": "Native author, title and displayed 17 August 2567 date confirmed. Krit Luealamai appears in published academic references. Thai title romanization and poetic translation need language review; original title is preserved."
+  },
+  {
+    "id": "nokkaew-2018", "author": "Nokkaew, S.", "nativeAuthor": "ศรัณยู นกแก้ว", "date": "2018, May 24",
+    "title": "กะเพราชีส เบคอน หมูตุ๋น ปฏิวัติวงการข้าวผัดกะเพราไทยด้วยกะเพราตามใจฉันจาก เพรา (Prow)",
+    "translation": "Cheese, bacon and braised-pork pad kra pao: Revolutionising Thai basil fried rice with made-to-order pad kra pao from Prow",
+    "site": "THE STANDARD", "kind": "article", "language": "th",
+    "url": "https://thestandard.co/prow/",
+    "verification": "Native author, full title and date confirmed. Published Roman name Saranyu Nokkaew corroborated by MICHELIN and Time Out bylines. Thai title romanization and editorial English translation need language review."
+  },
+  {
+    "id": "thai-pbs-2022", "author": "Thai PBS", "date": "2022, October 2",
+    "title": "“ผัดกะเพรา” เป็นเมนูสิ้นคิดจริงหรือ ?", "translation": "Is pad kra pao really a thoughtless dish?",
+    "site": "", "kind": "video", "language": "th",
+    "programme": "ภาคภูมิไทย (Pride of Thailand), Season 2",
+    "url": "https://www.thaipbs.or.th/program/PrideOfThailand/watch/158339",
+    "verification": "Broadcaster, title, 2 October 2565 date, programme and Season 2 confirmed. Presented as a broadcaster-hosted online video; formal television-episode writer/director/producer credits and episode number not verified or invented. Title romanization needs language review."
+  },
+  {
+    "id": "whiting-2021", "author": "Whiting, J.", "date": "2021, October 28",
+    "title": "Phad kaprao - How the Japanese have embraced the Thai favourite", "translation": "",
+    "originalTitle": "Phad Kaprao - How The Japanese Have Embraced The Thai Favourite",
+    "site": "MICHELIN Guide", "kind": "article", "language": "en",
+    "url": "https://guide.michelin.com/th/en/article/features/phad-kaprao---how-the-japanese-have-embraced-the-thai-favourite",
+    "verification": "Author, title, date and working triple-hyphen URL confirmed. Display title uses APA sentence case."
+  }
+]

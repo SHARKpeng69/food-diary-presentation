@@ -1,0 +1,15 @@
+# Upload the runnable site, never local proofs, reports or original models.
+/*
+!/index.html
+!/home-model.js
+!/references-paper.js
+!/paper-geometry.js
+!/references-bibliography.md
+!/references-data.json
+!/gallery-extra-manifest.json
+!/vendor/
+!/assets/
+/assets/*
+!/assets/home-pad-kra-pao-optimized.glb
+!/assets/images/
+/assets/images/description/exploded-reference.png

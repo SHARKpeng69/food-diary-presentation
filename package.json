@@ -1,0 +1,14 @@
+{
+  "name": "food-diary-presentation",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Local build and deployment tools for the completed static presentation",
+  "devDependencies": {
+    "@gltf-transform/core": "4.5.1",
+    "@gltf-transform/extensions": "4.5.1",
+    "draco3dgltf": "1.5.9",
+    "sharp": "0.35.5",
+    "wrangler": "4.154.0"
+  }
+}

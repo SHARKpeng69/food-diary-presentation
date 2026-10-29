@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<defs><radialGradient id="room"><stop stop-color="#242b29"/><stop offset="1" stop-color="#080d0c"/></radialGradient><linearGradient id="paper" x2=".2" y2="1"><stop stop-color="#f0eadf"/><stop offset="1" stop-color="#dfd7c8"/></linearGradient></defs>
+<rect width="720" height="480" fill="url(#room)"/>
+<path d="M96 77L620 76L626 369L94 371Z" fill="#000" opacity=".18" transform="translate(3 6)"/>
+<path d="M96 77L620 76L626 369L94 371Z" fill="url(#paper)" stroke="#fff" stroke-opacity=".25"/>
+<g fill="none" stroke-width="1"><path d="M96 77L359 226L626 369M620 76L359 226L94 371" stroke="#8e8069" opacity=".08"/><path d="M356 77L359 226L362 370" stroke="#fff" opacity=".32"/><path d="M96 225L359 226L623 223" stroke="#978b78" opacity=".1"/></g>
+<text x="360" y="121" text-anchor="middle" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#343028">References</text>
+<g fill="none" stroke="#4d473d" stroke-opacity=".38" stroke-width="2"><path d="M141 150h422M156 160h372"/><path d="M141 181h385M156 191h335"/><path d="M141 212h404M156 222h354"/><path d="M141 243h438M156 253h388"/><path d="M141 274h393M156 284h343"/><path d="M141 305h418M156 315h368"/></g>
+</svg>
